@@ -50,16 +50,16 @@ Dataset File:
 ## Dashboard Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](Blinkit_Sales_Analysis_Dashboard.jpeg)
+![Dashboard Overview](Dashboard_Screenshots/screenshot1.jpeg)
 
 ### Sales Analysis
-![Sales Analysis](Dashboard_Screenshots)
+![Sales Analysis](Dashboard_Screenshots/screenshot2.jpeg)
 
 ### Outlet Analysis
-![Outlet Analysis](screenshot3.jpeg)
+![Outlet Analysis](Dashboard_Screenshots/screenshot3.jpeg)
 
 ### Product Analysis
-![Product Analysis](screenshot4.jpeg)
+![Product Analysis](Dashboard_Screenshots/screenshot4.jpeg)
 
 ## Key Insights
 
