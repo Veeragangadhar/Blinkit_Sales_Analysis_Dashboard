@@ -53,7 +53,7 @@ Dataset File:
 ![Dashboard Overview](Blinkit_Sales_Analysis_Dashboard.jpeg)
 
 ### Sales Analysis
-![Sales Analysis](screenshot2.jpeg)
+![Sales Analysis](Dashboard_Screenshots)
 
 ### Outlet Analysis
 ![Outlet Analysis](screenshot3.jpeg)
