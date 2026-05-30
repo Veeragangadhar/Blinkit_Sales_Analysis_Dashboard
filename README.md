@@ -96,6 +96,6 @@ Dataset File:
 
 ## Author
 
-**Veeragangadhar**
+**Alladi Veeragangadhar**
 
 GitHub: https://github.com/Veeragangadhar
